@@ -12,7 +12,7 @@ html, body {
     color: #555;
     font-family: 'Lato', sans-serif;
     font-size: 20px;
-
+    overflow-x: hidden;
 }
 
 .clearfix:after{
@@ -246,7 +246,6 @@ header{
 .section-features .long-copy{
     margin-bottom: 30px;
 }
-
 
 /* ----------------------------------------------- */
 /*  MEALS */
@@ -489,7 +488,7 @@ input[type=checkbox]{
 }
 
 select{
-    background-color: rgb(241, 241, 241);
+    background-color: rgb(244, 244, 244);
 }
 
 
